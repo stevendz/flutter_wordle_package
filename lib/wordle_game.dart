@@ -1,4 +1,3 @@
 library wordle_game;
 
-export 'src/main.dart';
-export 'src/logic/controller.dart';
+export 'src/screens/home_page.dart';
