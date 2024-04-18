@@ -1,8 +1,8 @@
 import 'dart:math';
 
-import 'package:wordle_game/src//constants/answer_stages.dart';
-import 'package:wordle_game/src//constants/colors.dart';
-import 'package:wordle_game/src//logic/controller.dart';
+import 'package:wordle_game/src/constants/answer_stages.dart';
+import 'package:wordle_game/src/constants/colors.dart';
+import 'package:wordle_game/src/logic/controller.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

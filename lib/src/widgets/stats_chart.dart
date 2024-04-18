@@ -1,5 +1,5 @@
-import 'package:wordle_game/src//models/chart_model.dart';
-import 'package:wordle_game/src//utils/chart_series.dart';
+import 'package:wordle_game/src/models/chart_model.dart';
+import 'package:wordle_game/src/utils/chart_series.dart';
 import 'package:charts_flutter_new/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';

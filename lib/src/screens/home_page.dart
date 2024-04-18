@@ -1,13 +1,13 @@
 import 'dart:math';
 
-import 'package:wordle_game/src//constants/words.dart';
-import 'package:wordle_game/src//logic/controller.dart';
-import 'package:wordle_game/src//screens/settings.dart';
-import 'package:wordle_game/src//utils/quick_box.dart';
-import 'package:wordle_game/src//widgets/grid.dart';
-import 'package:wordle_game/src//widgets/intro_box.dart';
-import 'package:wordle_game/src//widgets/keyboard_row.dart';
-import 'package:wordle_game/src//widgets/stats_box.dart';
+import 'package:wordle_game/src/constants/words.dart';
+import 'package:wordle_game/src/logic/controller.dart';
+import 'package:wordle_game/src/screens/settings.dart';
+import 'package:wordle_game/src/utils/quick_box.dart';
+import 'package:wordle_game/src/widgets/grid.dart';
+import 'package:wordle_game/src/widgets/intro_box.dart';
+import 'package:wordle_game/src/widgets/keyboard_row.dart';
+import 'package:wordle_game/src/widgets/stats_box.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';

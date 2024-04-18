@@ -1,4 +1,4 @@
-import 'package:wordle_game/src//utils/quick_box.dart';
+import 'package:wordle_game/src/utils/quick_box.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

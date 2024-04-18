@@ -1,7 +1,7 @@
-import 'package:wordle_game/src//animations/bounce.dart';
-import 'package:wordle_game/src//animations/dance.dart';
-import 'package:wordle_game/src//widgets/tile.dart';
-import 'package:wordle_game/src//logic/controller.dart';
+import 'package:wordle_game/src/animations/bounce.dart';
+import 'package:wordle_game/src/animations/dance.dart';
+import 'package:wordle_game/src/widgets/tile.dart';
+import 'package:wordle_game/src/logic/controller.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 

@@ -1,4 +1,4 @@
-import 'package:wordle_game/src//constants/answer_stages.dart';
+import 'package:wordle_game/src/constants/answer_stages.dart';
 
 Map<String, AnswerStage> initialKeysMap() {
   return {

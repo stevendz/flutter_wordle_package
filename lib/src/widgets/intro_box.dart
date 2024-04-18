@@ -1,4 +1,4 @@
-import 'package:wordle_game/src//constants/colors.dart';
+import 'package:wordle_game/src/constants/colors.dart';
 import 'package:flutter/material.dart';
 
 enum LetterStatus { correct, misplaced, absent }

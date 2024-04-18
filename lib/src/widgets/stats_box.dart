@@ -1,9 +1,9 @@
-import 'package:wordle_game/src//widgets/stats_chart.dart';
-import 'package:wordle_game/src//widgets/stats_tile.dart';
-import 'package:wordle_game/src//constants/answer_stages.dart';
-import 'package:wordle_game/src//data/keys_map.dart';
-import 'package:wordle_game/src//utils/calculate_stats.dart';
-import 'package:wordle_game/src//main.dart';
+import 'package:wordle_game/src/widgets/stats_chart.dart';
+import 'package:wordle_game/src/widgets/stats_tile.dart';
+import 'package:wordle_game/src/constants/answer_stages.dart';
+import 'package:wordle_game/src/data/keys_map.dart';
+import 'package:wordle_game/src/utils/calculate_stats.dart';
+import 'package:wordle_game/src/main.dart';
 import 'package:flutter/material.dart';
 
 class StatsBox extends StatelessWidget {
